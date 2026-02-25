@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink" width="240" height="240">
+<circle cx="120" cy="120" r="120" fill="#C0C0C0"/>
+<path d="M120,75 a45,45 0 1,1 45,45" stroke="#0080FF" stroke-width="24px" fill="none"/>
+<path d="M75,120 a45,45 0 1,0 45,45" stroke="#0080FF" stroke-width="24px" fill="none"/>
+
+
+<path d="M34,206 L206,34" stroke="#FFFFFF" stroke-width="39px" fill="none"/>
+<path d="M75,120 L165,120" stroke="#0080FF" stroke-width="24px" fill="none"/>
+<path d="M120,75 L120,165" stroke="#0080FF" stroke-width="24px" fill="none"/>
+
+
+
+</svg>
+

@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  version="1.1"
+  width="192"
+  height="192"
+  viewBox="0 0 192 192">
+  
+<path d="M75,26 L75,96" stroke="#FF8000" stroke-width="2px" fill="none" transform="rotate(216 96 96)"/>
+<path d="M75,26 L75,96" stroke="#FF8000" stroke-width="2px" fill="none" transform="rotate(288 96 96)"/>
+<polygon  fill="#0080FF" points="66.5,5 74,20 74,172 66.5,187" />
+<path d="M75,26 L75,96" stroke="#FF8000" stroke-width="2px" fill="none" />
+
+<polygon  fill="#0080FF" points="66.5,5 74,20 74,172 66.5,187" transform="rotate(72 96 96)"/>
+<path d="M75,26 L75,120" stroke="#FF8000" stroke-width="2px" fill="none" transform="rotate(72 96 96)"/>
+
+<polygon  fill="#0080FF" points="66.5,5 74,20 74,172 66.5,187" transform="rotate(144 96 96)"/>
+<path d="M75,26 L75,120" stroke="#FF8000" stroke-width="2px" fill="none" transform="rotate(144 96 96)"/>
+
+<polygon  fill="#0080FF" points="66.5,5 74,20 74,172 66.5,187" transform="rotate(216 96 96)"/>
+<path d="M75,96 L75,120" stroke="#FF8000" stroke-width="2px" fill="none" transform="rotate(216 96 96)"/>
+
+<polygon  fill="#0080FF" points="66.5,5 74,20 74,172 66.5,187" transform="rotate(288 96 96)"/>
+<path d="M75,96 L75,120" stroke="#FF8000" stroke-width="2px" fill="none" transform="rotate(288 96 96)"/>
+<path d="M75,96 L75,120" stroke="#FF8000" stroke-width="2px" fill="none" />
+
+</svg>

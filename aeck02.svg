@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink" width="192" height="192" viewBox="0 0 192 192">
+
+
+<path d="M67,23 L67,96" stroke="#FF8000" stroke-width="2px" fill="none" transform="rotate(225 96 96)"/>
+<path d="M67,23 L67,96" stroke="#FF8000" stroke-width="2px" fill="none" transform="rotate(270 96 96)"/>
+<path d="M67,23 L67,96" stroke="#FF8000" stroke-width="2px" fill="none" transform="rotate(315 96 96)"/>
+<polygon  fill="#0080FF" points="59,7 66,15 66,177  59,185" />
+<path d="M67,23 L67,96" stroke="#FF8000" stroke-width="2px" fill="none" />
+
+<polygon  fill="#0080FF" points="59,7 66,15 66,177  59,185" transform="rotate(45 96 96)"/>
+<path d="M67,23 L67,96" stroke="#FF8000" stroke-width="2px" fill="none" transform="rotate(45 96 96)"/>
+
+<polygon  fill="#0080FF" points="59,7 66,15 66,177  59,185" transform="rotate(90 96 96)"/>
+<path d="M67,23 L67,133" stroke="#FF8000" stroke-width="2px" fill="none" transform="rotate(90 96 96)"/>
+
+<polygon  fill="#0080FF" points="59,7 66,15 66,177  59,185" transform="rotate(135 96 96)"/>
+<path d="M67,23 L67,133" stroke="#FF8000" stroke-width="2px" fill="none" transform="rotate(135 96 96)"/>
+
+<polygon  fill="#0080FF" points="59,7 66,15 66,177  59,185" transform="rotate(180 96 96)"/>
+<path d="M67,23 L67,133" stroke="#FF8000" stroke-width="2px" fill="none" transform="rotate(180 96 96)"/>
+
+<polygon  fill="#0080FF" points="59,7 66,15 66,177  59,185" transform="rotate(225 96 96)"/>
+<path d="M67,96 L67,133" stroke="#FF8000" stroke-width="2px" fill="none" transform="rotate(225 96 96)"/>
+
+<polygon  fill="#0080FF" points="59,7 66,15 66,177  59,185" transform="rotate(270 96 96)"/>
+<path d="M67,96 L67,133" stroke="#FF8000" stroke-width="2px" fill="none" transform="rotate(270 96 96)"/>
+
+<polygon  fill="#0080FF" points="59,7 66,15 66,177  59,185" transform="rotate(315 96 96)"/>
+<path d="M67,96 L67,133" stroke="#FF8000" stroke-width="2px" fill="none" transform="rotate(315 96 96)"/>
+<path d="M67,96 L67,133" stroke="#FF8000" stroke-width="2px" fill="none" />
+<path d="M67,96 L67,133" stroke="#FF8000" stroke-width="2px" fill="none" transform="rotate(45 96 96)"/>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink" width="192" height="192">
+
+<polygon fill="#FFFFFF" points="0,0 192,0 192,192 0,192" />
+<path d="M96,60 a36,36 0 1,1 36,36" stroke="#0080FF" stroke-width="22px" fill="none"/>
+<path d="M60,96 a36,36 0 1,0 36,36" stroke="#0080FF" stroke-width="22px" fill="none"/>
+<path d="M60,96 L132,96" stroke="#0080FF" stroke-width="22px" fill="none"/>
+<polygon fill="#000000" points="180,36 28,188 4,164 156,12" />
+<polygon fill="#FF8000" points="176,32 24,184 8,168 160,16" />
+<polygon fill="#000000" points="156,12 192,0 180,36" />
+
+
+<path d="M96,60 L96,132" stroke="#0080FF" stroke-width="22px" fill="none"/>
+
+</svg>
+
