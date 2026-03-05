@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="16cm" height="16cm"
+     viewBox="0 0 160 160">
+
+  <!-- Mittelpunkt bei (80,80), Radius 80 -->
+
+  <!-- Sektor 1: rot (0°–90°) -->
+  <path d="
+    M80,80
+    L160,80
+    A80,80 0 0,1 80,160
+    Z"
+    fill="red"/>
+
+  <!-- Sektor 2: blau (90°–180°) -->
+  <path d="
+    M80,80
+    L80,160
+    A80,80 0 0,1 0,80
+    Z"
+    fill="blue"/>
+
+  <!-- Sektor 3: rot (180°–270°) -->
+  <path d="
+    M80,80
+    L0,80
+    A80,80 0 0,1 80,0
+    Z"
+    fill="red"/>
+
+  <!-- Sektor 4: blau (270°–360°) -->
+  <path d="
+    M80,80
+    L80,0
+    A80,80 0 0,1 160,80
+    Z"
+    fill="blue"/>
+
+  <!-- optional: feiner Außenrand -->
+  <circle cx="80" cy="80" r="79"
+          fill="none" stroke="black" stroke-width="1"/>
+
+</svg>

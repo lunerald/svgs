@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="16cm" height="16cm"
+     viewBox="0 0 160 160">
+
+  <!-- Grundsektor: 18° -->
+  <defs>
+    <path id="sector18" d="
+      M80,80
+      L160,80
+      A80,80 0 0,1 156.1,104.7
+      Z"/>
+  </defs>
+
+  <!-- 20 Sektoren -->
+  <g>
+    <use href="#sector18" fill="red"/>
+    <use href="#sector18" fill="orange" transform="rotate(17.1 80 80)"/>
+    <use href="#sector18" fill="yellow" transform="rotate(34.3 80 80)"/>
+    <use href="#sector18" fill="green" transform="rotate(51.4 80 80)"/>
+    <use href="#sector18" fill="cyan" transform="rotate(68.6 80 80)"/>
+    <use href="#sector18" fill="blue" transform="rotate(85.7 80 80)"/>
+    <use href="#sector18" fill="violet" transform="rotate(102.9 80 80)"/>
+
+    <use href="#sector18" fill="red" transform="rotate(120 80 80)"/>
+    <use href="#sector18" fill="orange" transform="rotate(137.1 80 80)"/>
+    <use href="#sector18" fill="yellow" transform="rotate(154.3 80 80)"/>
+    <use href="#sector18" fill="green" transform="rotate(171.4 80 80)"/>
+    <use href="#sector18" fill="cyan" transform="rotate(188.6 80 80)"/>
+    <use href="#sector18" fill="blue" transform="rotate(205.7 80 80)"/>
+    <use href="#sector18" fill="violet" transform="rotate(222.9 80 80)"/>
+
+    <use href="#sector18" fill="red" transform="rotate(240.1 80 80)"/>
+    <use href="#sector18" fill="orange" transform="rotate(257.1 80 80)"/>
+    <use href="#sector18" fill="yellow" transform="rotate(274.3 80 80)"/>
+    <use href="#sector18" fill="green" transform="rotate(291.4 80 80)"/>
+    <use href="#sector18" fill="cyan" transform="rotate(308.6 80 80)"/>
+    <use href="#sector18" fill="blue" transform="rotate(325.7 80 80)"/>
+    <use href="#sector18" fill="violet" transform="rotate(342.9 80 80)"/>
+  </g>
+
+  <!-- Außenrand -->
+  <circle cx="80" cy="80" r="79"
+          fill="none" stroke="black" stroke-width="1"/>
+
+</svg>
