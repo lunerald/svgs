@@ -60,7 +60,7 @@
        <g id="id3">
         <rect class="BoundingBox" stroke="none" fill="none" x="100" y="50" width="1776" height="3782"/>
         <!-- -->
-        <path fill="none" stroke="rgb(0,127,255)" stroke-width="200" stroke-linejoin="round" d="M 200,150 C 1990,2078 1766,3731 1766,3731 "/>
+        <path fill="none" stroke="rgb(0,127,255)" stroke-width="400" stroke-linejoin="round" d="M 200,150 C 1990,2078 1766,3731 1766,3731 "/>
         <path fill="none" stroke="rgb(255,255,255)" stroke-width="200" stroke-linejoin="round" d="M 200,150 C 1990,2078 1766,3731 1766,3731 "/>
        </g>
       </g>
